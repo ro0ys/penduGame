@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.EcranRose{
+  margin: 30px;
+  background-color: #3f4f42;
+  color: white;
+  border-radius: 5px;
+  border: 1em #fcc7ea solid;
+  min-height: 500px;
+}
+
+.EcranBleu{
+  margin: 30px;
+  background-color: #3f4f42;
+  color: white;
+  border-radius: 5px;
+  border: 1em #ffbb00 solid;
+  min-height: 500px;
+}
